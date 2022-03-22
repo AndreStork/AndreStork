@@ -1,10 +1,10 @@
 # AndreStork's GitHub Page
 che schifo la vita lol
 
-## Currently working on
+### Currently working on
 * CHDMAN
 
-## Failed projects
+### Failed projects
 * iDroid
 * MiDesktop
 * MiTweaks
