@@ -2,7 +2,7 @@
 che schifo la vita lol
 
 ### Currently working on
-* [GEcosytem](https://gecosytem.cf/)
+* [GEcosytem](https://gecosystem.cf/)
 * EasyCHD
 
 ### Failed projects
