@@ -2,7 +2,8 @@
 che schifo la vita lol
 
 ### Currently working on
-* CHDMAN
+* GEcosytem
+* EasyCHD
 
 ### Failed projects
 * iDroid
