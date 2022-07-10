@@ -8,6 +8,6 @@ Let me introduce myself, I'm Andrea (or Andre if you want), a 15 years old guy f
 * [EasyCHD](https://github.com/AndreStork/EasyCHD)
 
 ### Programming Languages
-I know a bit of C# and batch (yes, that old thing)
+I know a bit of C# and batch (yes, that old thing), I also tried a bit of Javascript for discord.js
 
 [![AndreStork's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreStork&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
