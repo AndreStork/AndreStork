@@ -7,7 +7,7 @@ Let me introduce myself, I'm Andrea (or Andre if you want), a 15 years old guy f
 * [GEcosytem](https://gecosystem.cf/)
 * [EasyCHD](https://github.com/AndreStork/EasyCHD)
 
-### Programming Languages
-I know a bit of C# and batch (yes, that old thing), I also tried a bit of Java for discord.js
+### Programming Languages and stuff
+[![My Skills](https://skillicons.dev/icons?i=cs,html,bootstrap,pr,ps,figma)](https://skillicons.dev)
 
 [![AndreStork's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreStork&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
