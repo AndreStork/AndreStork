@@ -4,6 +4,6 @@
 Hi, I'm Andrea (or Andre if you want), a 17 y/o guy from Italy who loves tech and cute things, I'm not really good at programming but I can manage to do some stuff when I have the perseverance. I'm also a casual gamer and (now occasional) [osu! player](https://strkln.tk/osu).
 
 ### My skills on which I suck too
-[![My Skills](https://skillicons.dev/icons?i=html,md,linux,pr,ps,figma,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,linux,pr,ps,figma)](https://skillicons.dev)
 
 [![AndreStork's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreStork&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
