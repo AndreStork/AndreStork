@@ -6,6 +6,6 @@ Hi, I'm Andrea (or Andre if you want), a 17 y/o guy from Italy who loves tech an
 #### Stuff I use/have used
 [![My Skills](https://skillicons.dev/icons?i=cs,html,bootstrap,docker,linux,pr,ps,figma)](https://skillicons.dev)
 #### Currently interested in
-[![My Interests](https://skillicons.dev/icons?i=kotlin,flutter,materialui,dotnet)](https://skillicons.dev)
+[![My Interests](https://skillicons.dev/icons?i=kotlin,flutter,dotnet)](https://skillicons.dev)
 
 [![AndreStork's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreStork&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
